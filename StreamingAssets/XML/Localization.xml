@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataForLocalization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	
+	<TitleText>Aranżacja przestrzeni</TitleText>
+
+	<PutText>Umieść</PutText>
+	<ObjectText>obiekt z kategorii:</ObjectText>
+	<OnText>na</OnText>
+	<UnderText>pod</UnderText>
+	<AboveText>nad</AboveText>
+	<BesideText>obok</BesideText>
+
+	<Beds>łóżka</Beds>
+	<Chairs>krzesła</Chairs>
+	<Closets>szafy</Closets>
+	<Descables>lampy/kwiaty</Descables>
+	<Rugs>dywany</Rugs>
+	<Tables>stoły</Tables>
+	<Wallables>obrazy</Wallables>
+
+</DataForLocalization>
